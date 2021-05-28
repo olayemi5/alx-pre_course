@@ -1,1 +1,1 @@
-**This file is mandotory in all ALX School Projects** __This file is mandoraoty in all ALX School Projects__
+**This file is mandotory in all ALX School Projects**
